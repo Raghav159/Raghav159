@@ -67,7 +67,7 @@
   <a href="https://discord.com/users/apocalypse159_42342" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="raghavkashyap159@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&to=raghavkashyap159@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/rag.hav1595" target="_blank">
